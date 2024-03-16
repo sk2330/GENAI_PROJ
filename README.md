@@ -1,1 +1,1 @@
-## Generative AI Project that summarizes various formats of files such as PDF,docx and txt
+## Generative AI Project that summarizes various formats of files such as PDF,docx,doc and txt
